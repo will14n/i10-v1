@@ -28,7 +28,7 @@ Alguns patterns e padrões implementados no V2:
 - Padronização da saída da API com resources e Adapter
 
 ## Links
-Repositório, projeto v1: https://github.com/will14n/i10-v1
-Repositório, projeto v2: https://github.com/will14n/i10-v2
-Projeto 1: http://ec2-54-234-227-78.compute-1.amazonaws.com/
-Projeto 2: http://ec2-3-80-117-71.compute-1.amazonaws.com/
+Repositório, projeto v1: https://github.com/will14n/i10-v1<br />
+Repositório, projeto v2: https://github.com/will14n/i10-v2<br />
+Projeto v1: http://ec2-54-234-227-78.compute-1.amazonaws.com/<br />
+Projeto v2: http://ec2-3-80-117-71.compute-1.amazonaws.com/<br />
